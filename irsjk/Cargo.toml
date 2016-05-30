@@ -1,7 +1,7 @@
 [package]
-name = "discordbot"
+name = "irsjk"
 version = "0.1.0"
 authors = ["Mathsterk <mathiassterk@gmail.com>"]
 
 [dependencies]
-discord="0.5.0"
+irc = "0.11.3"
